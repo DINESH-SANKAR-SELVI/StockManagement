@@ -1,0 +1,10 @@
+com\DINESH\stockManagement\JpaRepositories\BranchProductRepo.class
+com\DINESH\stockManagement\services\CommonService.class
+com\DINESH\stockManagement\services\BranchProductService.class
+com\DINESH\stockManagement\StockManagementApplication.class
+com\DINESH\stockManagement\DTOS\BranchProductDTO.class
+com\DINESH\stockManagement\services\serviceimplements\BranchProductServiceImplement.class
+com\DINESH\stockManagement\services\serviceimplements\CommonServiceImplement.class
+com\DINESH\stockManagement\entities\BranchProduct.class
+com\DINESH\stockManagement\controllers\CommonController.class
+com\DINESH\stockManagement\controllers\BranchProductController.class

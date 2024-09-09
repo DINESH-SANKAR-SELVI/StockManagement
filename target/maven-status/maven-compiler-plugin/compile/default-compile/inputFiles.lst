@@ -1,0 +1,10 @@
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\controllers\BranchProductController.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\controllers\CommonController.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\DTOS\BranchProductDTO.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\entities\BranchProduct.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\JpaRepositories\BranchProductRepo.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\services\BranchProductService.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\services\CommonService.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\services\serviceimplements\BranchProductServiceImplement.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\services\serviceimplements\CommonServiceImplement.java
+C:\Users\intern2\Documents\DINESH-DEMO-WORKSHOP\Devlopment\MICROSERVICE\stock-management\src\main\java\com\DINESH\stockManagement\StockManagementApplication.java
